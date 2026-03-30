@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Alex
-
 ![Banner](https://ik.imagekit.io/vetements/Copy%20of%20Untitled%20Design.png)
 
 ### 🤖 AI Engineer & Founder of Programmatic
