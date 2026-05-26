@@ -1,13 +1,16 @@
 ![Banner](https://ik.imagekit.io/vetements/Copy%20of%20Untitled%20Design.png)
 
 ### 🤖 AI Engineer & Founder of Programmatic
-I’m a Computer Science student at **UC Merced** focused on Machine Learning, Automation, and Software Engineering.
+I’m a Computer Science student at **UC Merced** focused on Machine Learning, Intelligent Automation, and Full-Stack Architecture.
 
 ---
 
 ### 🛠️ Tech Stack & Focus
-* **Languages:** Python, C++, Java, SQL
-* **Deep Learning:** PyTorch, Multi-Agent Systems, LLM Optimization
+
+* **Languages:** Python, C++, Java, TypeScript, JavaScript, SQL, MIPS Assembly
+* **AI & Machine Learning:** PyTorch, TensorFlow, NLP, AutoML, Multi-Agent Systems, LLM Optimization
+* **Data Engineering & Analytics:** Graph-Based Data Analysis, Automated Pipelines, Data Platforms & Analytics Dashboards
+* **Specialized Systems:** OCR Systems, Supply Chain Management (SCM) Systems, RAG & Custom Distributed Architecture
 
 ---
 
