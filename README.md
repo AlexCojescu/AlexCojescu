@@ -1,5 +1,3 @@
-![Banner](https://ik.imagekit.io/vetements/Copy%20of%20Untitled%20Design.png)
-
 ### 🤖 AI Engineer & Founder of Programmatic
 I’m a Computer Science student at **UC Merced** focused on Machine Learning, Intelligent Automation, and Full-Stack Architecture.
 
